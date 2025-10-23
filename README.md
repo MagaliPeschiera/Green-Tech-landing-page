@@ -1,5 +1,5 @@
-# Green-Tech-landing-page
-https://fantastic-malasada-392711.netlify.app/
+🌿 GreenTech — Landing Page
+
 Este proyecto es una landing page creada en WordPress para una empresa ficticia dedicada a soluciones sustentables y energía renovable.
 La idea fue trabajar un diseño limpio, moderno y profesional, con foco en la presentación visual y la estructura general del sitio.
 
@@ -8,11 +8,17 @@ Por eso, algunas secciones (como “Nosotros” o “Consultoría Energética”
 
 Aun así, esta versión refleja lo más importante: el diseño, el estilo visual y la navegación general del proyecto.
 
-⸻
-
 🛠️ Tecnologías utilizadas:
-	•	WordPress
-	•	Elementor
-	•	HTML / CSS
-	•	Simply Static (exportación estática)
-	•	Netlify (deploy)
+
+WordPress
+
+Elementor
+
+HTML / CSS
+
+Simply Static (exportación estática)
+
+Netlify (deploy)
+
+📎 Versión online:
+https://fantastic-malasada-392711.netlify.app
